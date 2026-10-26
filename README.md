@@ -19,7 +19,7 @@ Our mission is to create a powerful, user-friendly AI assistant that helps peopl
 
 ## 🌍 Official Website
 
-🔗 **Website:** [Add your website URL here]
+🔗 **Website:** https://mrraustudio.pl
 
 ## 📥 Download MrrauAI
 
